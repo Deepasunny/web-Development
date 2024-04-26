@@ -25,6 +25,7 @@ INSTALLATION
 1.Clone the repository:git clone https://github.com/yourusername/spotify-clone.git
 2.Navigate to the project directory:cd spotify-clone
 3.Open index.html in your web browser.
+
 USAGE
 =====
 1.Authentication: Sign in with your Spotify account or create a new account if you don't have one.
