@@ -14,8 +14,11 @@ License
 FEATURES
 =========
 1.Browse and search for tracks, albums, and artists
+
 2.Play, pause, skip, and control playback
+
 3.Create and manage playlists
+
 4.Discover new music based on user preferences
 5.Responsive design for seamless use across devices
 
